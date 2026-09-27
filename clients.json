@@ -416,5 +416,24 @@
       "o": "",
       "t": ""
     }
+  },
+  {
+    "id": "c_kp9x2rnw4qz",
+    "name": "Killipest",
+    "score": 8,
+    "date": "2026-08-22",
+    "handle": "killipest",
+    "channel": "Instagram",
+    "url": "https://www.killipest.co.tz/",
+    "contact": "Email: info@killipest.co.tz Whatsapp: +255719606776 Call: +255 774 089 251 / +255 719 606 776 Instagram: @killipest",
+    "status": "contacted",
+    "weak": "Homepage (index.php) returns 404 while inner pages (gallery.php) still serve the old site — broken mid-maintenance with dead nav links. Hand-coded PHP, no CMS, unoptimized images, dated Flag Counter widget.",
+    "notes": "Pest control company, Dar es Salaam. Emailed 2026-08-22 flagging the maintenance-mode gap. WhatsApp-first business (wa.me/message/OASSWOVT3VPGK1). Hours: Mon-Fri 08:00-18:00, Sat 08:00-12:00. Site is hand-rolled PHP, not WordPress.",
+    "swot": {
+      "s": "Established local pest-control brand, active on Instagram and WhatsApp, clear service offering and inspection CTA.",
+      "w": "Broken homepage, dead navigation, no CMS, unoptimized images, third-party Flag Counter tracker.",
+      "o": "Clearly mid-rebuild — active intent and likely budget in motion; WhatsApp-first setup is ready for a modern conversion-focused site.",
+      "t": "May already have a developer on the rebuild; SME budget; competing agencies could reach them first."
+    }
   }
 ]
